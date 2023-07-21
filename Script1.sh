@@ -11,6 +11,7 @@ echo "My name is Rock"
 echo "Hello batch-19"
 echo "Hi team"
 echo "Hi"
-echo "I am student"
-echo "I am lawywer"
+echo " I am gradute"
+echo "I am docter"
+
 
